@@ -1,0 +1,1 @@
+{"root":["./app.ts","./config/firebaseconfig.ts","./controller/usercontroller.ts","./entities/user.ts","./middleware/authmiddleware.ts","./repository/usercollection.ts","./routes/userroutes.ts","./types/extendedrequest.ts","./utils/firebaseinit.ts"],"version":"5.7.2"}

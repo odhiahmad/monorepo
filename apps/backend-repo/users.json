@@ -1,0 +1,35 @@
+[
+    {
+      "id": "userID_123",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "profilePicture": "https://example.com/path/to/profile.jpg",
+      "createdAt": "2023-08-09T10:00:00Z",
+      "lastLogin": "2023-12-25T08:00:00Z",
+      "roles": {
+        "admin": false,
+        "editor": true
+      },
+      "preferences": {
+        "theme": "dark",
+        "notifications": true
+      }
+    },
+    {
+      "id": "userID_456",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "profilePicture": "https://example.com/path/to/profile2.jpg",
+      "createdAt": "2023-09-15T11:00:00Z",
+      "lastLogin": "2023-12-20T09:30:00Z",
+      "roles": {
+        "admin": true,
+        "editor": false
+      },
+      "preferences": {
+        "theme": "light",
+        "notifications": false
+      }
+    }
+  ]
+  
